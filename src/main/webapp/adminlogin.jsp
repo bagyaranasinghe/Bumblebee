@@ -37,7 +37,6 @@
                 <label for="adminPassword">Password: </label>
                 <input type="password" id="adminPassword" name="adminPassword" class="form-control"/>
                 <input type="hidden" name="type" value="add"/>
-                </br>
                 <button type="submit" class="btn btn-info">Login</button>
             </form>
         </div>

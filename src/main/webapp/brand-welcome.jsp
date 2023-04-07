@@ -29,13 +29,13 @@
 <div class="wrapper">
 
     <jsp:include page="nav.jsp"/>
-    <!-- end of navbar navigation -->
+    <!-- end of nav navigation -->
     <div class="content">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 page-header">
                     <div class="page-pretitle">Overview</div>
-                    <h2 class="page-title">Dashboard</h2>
+                    <h2 class="page-title">dashboard</h2>
                 </div>
             </div>
             <div class="row">
@@ -91,7 +91,6 @@
             </div>
         </div>
     </div>
-</div>
 </div>
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"></script>

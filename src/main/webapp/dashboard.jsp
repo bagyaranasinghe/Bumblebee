@@ -3,7 +3,7 @@
 <%@ taglib prefix="tag" uri="http://java.sun.com/jsp/jstl/core" %>
 
 <%response.setHeader("Cache-Control", "private, no-store, no-cache, must-revalidate");%>
-<%@page import="com.pasindujr.bumblebeeloans.dao.DashboardManager"%>
+<%@page import="com.CodewithBhagya.Bumblebee.dao.DashboardManager"%>
 <%@ page import="java.sql.Connection" %>
 <%@ page import="java.sql.Statement" %>
 <%@page import="java.sql.ResultSet"%>

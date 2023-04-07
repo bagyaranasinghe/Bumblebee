@@ -28,7 +28,7 @@
 
     </ul>
 </nav>
-<div id="body" class="active">
+	
     <!-- navbar navigation component -->
     <nav class="navbar navbar-expand-lg navbar-white bg-white">
         <button type="button" id="sidebarCollapse" class="btn btn-light">

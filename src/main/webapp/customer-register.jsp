@@ -49,7 +49,7 @@
                                    class="form-control"/>
 
                             <input type="hidden" name="type" value="add"/>
-                            </br>
+                            
                             <button type="submit" class="btn btn-info">Register Customer</button>
                         </form>
                     </div>
@@ -58,7 +58,7 @@
         </div>
     </div>
 </div>
-</div>
+
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="assets/js/script.js"></script>

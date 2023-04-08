@@ -4,11 +4,11 @@
 %>
 <nav id="sidebar" class="active">
     <div class="sidebar-header">
-        <img src="assets/img/bootstraper-logo.jpg" alt="bootraper logo" class="app-logo">
+        <img src="assets/img/bootstraper-logo.svg.png" alt="bootraper logo" class="app-logo">
     </div>
     <ul class="list-unstyled components text-secondary">
         <li>
-            <a href="dashboard.jsp"><i class="fas fa-home"></i> Dashboard</a>
+            <a href="dashboard.jsp"><i class="fas fa-home"></i> dashboard</a>
         </li>
         <li>
             <a href="brand"><i class="fas fa-file-alt"></i>Manage Brand</a>
